@@ -1,4 +1,11 @@
-# My Statistics
+# Hello, I am Trevor ✨
+
+I am currently contributing to...  
+**Astro Documentation** [docs.astro.build](docs.astro.build)  
+[![@VoxelMC Astro contributions](https://astro.badg.es/v2/contributor/VoxelMC.svg)](https://astro.badg.es/contributor/VoxelMC/)  
+Personal Projects  
+
+## My Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoxelMC&layout=compact&theme=dracula)
 
 <!--
