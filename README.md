@@ -9,6 +9,7 @@
 ### Personal  
 - `labcatr/labcatr` is an academic laboratory inventory management solution.
 - `labcatr/lambda` is a citation generator for the American Chemical Society.
+- `labcatr/labcommitr` is a GitHub commit standardizer.
 - `spotify-overlay` is a compact window for quickly viewing your current song, pausing, and skipping. Built using Tauri and React.
 - `rust-metabolomics` is a library of command-line programs for metabolomics tools.
 
